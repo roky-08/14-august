@@ -161,7 +161,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='CLOSE :P :* :( :)   5g LIKER :3 <3 <3 <3              http://botu.ml        χ3™ BoTT3rx ||SHAYAN ALI||';
+$site='CLOx    χ3™ BoTT3rx ||SHAYAN ALI||   BOT SITE= cutt.us/roky008  ';
 $true=$ops.'
  '.$site;
 
