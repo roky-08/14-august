@@ -441,6 +441,4 @@ if($_GET[token]){
         $bot->bwh();}}
 }
 ?>
-<audio controls>
-        <source src="https://openload.co/embed/3Ftm8QqYv14/04_Main_Agar_Kahoon_-_www.downloadming.com.mp3" type="audio/mp3">
-</audio>
+
