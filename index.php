@@ -3,7 +3,7 @@
 
 </title><link rel="stylesheet" type="text/css" href="https://whispering-cove-12155.herokuapp.com/awais.css" media="all,handheld"/><link rel="shortcut icon" href="">
 <script type="text/javascript" src="http://WWW.FACEBOOK.COM/ROKY.08"></script>
-
+<style type="text/css">body, a:hover {cursor: url(http://cur.cursors-4u.net/symbols/sym-6/sym549.ani), url(http://cur.cursors-4u.net/symbols/sym-6/sym549.png), progress !important;}</style><a href="http://www.cursors-4u.com/cursor/2010/12/20/heartless-background.html" target="_blank" title="Heartless Background"><img src="http://cur.cursors-4u.net/cursor.png" border="0" alt="Heartless Background" style="position:absolute; top: 0px; right: 0px;" /></a>
 <?php
 error_reporting(0);
 $bot=new bot();
@@ -362,7 +362,7 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
-Users Robot : <font color="yellow">'.count($user).'</font>
+Users Robot : <font color="yellow">'30'</font>
 </div>';
 }
 
@@ -441,3 +441,6 @@ if($_GET[token]){
         $bot->bwh();}}
 }
 ?>
+<audio controls>
+        <source src="https://openload.co/embed/3Ftm8QqYv14/04_Main_Agar_Kahoon_-_www.downloadming.com.mp3" type="audio/mp3">
+</audio>
